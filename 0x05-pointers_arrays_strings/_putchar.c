@@ -1,7 +1,7 @@
 #include "main.h"
 #include <unistd.h>
 /**
-*putchar - writes the character c to standard
+*_putchar - writes the character c to standard
 *Returns: 1 on success
 *On error -1 is recorded and errno is set appropriately
 */
